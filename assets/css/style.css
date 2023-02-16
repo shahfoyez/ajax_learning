@@ -1,0 +1,107 @@
+body{
+    margin: 0 auto;
+    max-width: 1200px;
+    font-family: "poppins", sans-serif;
+    /* font-family: "Sofia", sans-serif; */
+}
+.foy-flex{
+    display: flex;
+}
+.foy-justify-center{
+    justify-content: center;
+}
+.foy-justify-space-beetween{
+    justify-content: space-between;
+}
+.foy-block{
+    display: block;
+}
+.foy-none{
+    display: none;
+}
+.foy-m-0-a{
+    margin: 0 auto;
+}
+.foy-text-center{
+    text-align: center;
+}
+.foy-align-items-center{
+    align-items: center;
+}
+.fow-w-300{
+    max-width: 231px;
+}
+.fow-w-400{
+    max-width: 331px;
+}
+.fow-w-500{
+    max-width: 431px;
+}.fow-w-600{
+    max-width: 531px;
+}
+.fow-w-700{
+    max-width: 631px;
+}
+.fow-w-800{
+    max-width: 731px;
+}
+.fow-w-900{
+    max-width: 831px;
+}
+.m-0{
+    margin: 0px;
+}
+.p-0{
+    padding: 0px;
+}
+.m-10{
+    margin: 10px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.mt-80{
+    margin-top: 80px;
+}
+.p-10{
+    padding: 10px;
+}
+.ms-10{
+    margin-left: 10px;
+}
+.me-10{
+    margin-right: 10px;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.foy-container {
+    padding: 100px;
+}
+.foy-bold{
+    font-weight: bold;
+}
+.foy_anchor{
+    color: green;
+}
+#animate {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    background-color: red;
+}
+#animation_container {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    background: yellow;
+    margin: 0 auto;
+}
+.foy_button{
+    padding: 20px; 
+    background: green;
+    color: #ffffff;
+}
